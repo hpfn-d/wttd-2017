@@ -3,11 +3,11 @@ projeto do curso Welcome to the Django - 2017.
 # Eventx
 Sistema de Eventos encomendado pela Morena.
 
-[![Code Health](https://landscape.io/github/hpfn/wttd-2017/master/landscape.svg?style=flat)](https://landscape.io/github/hpfn/wttd-2017/master)
-[![Build Status](https://travis-ci.org/hpfn/wttd-2017.svg?branch=master)](https://travis-ci.org/hpfn/wttd-2017)
-[![Updates](https://pyup.io/repos/github/hpfn/wttd-2017/shield.svg)](https://pyup.io/repos/github/hpfn/wttd-2017/)
-[![Python 3](https://pyup.io/repos/github/hpfn/wttd-2017/python-3-shield.svg)](https://pyup.io/repos/github/hpfn/wttd-2017/)
-[![codecov](https://codecov.io/gh/hpfn/wttd-2017/branch/master/graph/badge.svg)](https://codecov.io/gh/hpfn/wttd-2017)
+[![Code Health](https://landscape.io/github/hpfn-d/wttd-2017/master/landscape.svg?style=flat)](https://landscape.io/github/hpfn-d/wttd-2017/master)
+[![Build Status](https://travis-ci.org/hpfn-d/wttd-2017.svg?branch=master)](https://travis-ci.org/hpfn-d/wttd-2017)
+[![Updates](https://pyup.io/repos/github/hpfn-d/wttd-2017/shield.svg)](https://pyup.io/repos/github/hpfn-d/wttd-2017/)
+[![Python 3](https://pyup.io/repos/github/hpfn-d/wttd-2017/python-3-shield.svg)](https://pyup.io/repos/github/hpfn-d/wttd-2017/)
+[![codecov](https://codecov.io/gh/hpfn-d/wttd-2017/branch/master/graph/badge.svg)](https://codecov.io/gh/hpfn-d/wttd-2017)
 
 ## Como desenvolver ?
 
