@@ -9,7 +9,7 @@ django-extensions==2.1.7
 django-test-without-migrations==0.6
 pytz==2019.1
 # Cloudinary
-certifi==2019.3.9
+certifi==2020.6.20
 chardet==3.0.4
 cloudinary==1.16.0
 django-cloudinary-storage==0.2.3
