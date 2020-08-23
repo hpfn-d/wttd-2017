@@ -12,7 +12,7 @@ pytz==2019.1
 certifi==2019.3.9
 chardet==3.0.4
 cloudinary==1.16.0
-django-cloudinary-storage==0.2.3
+django-cloudinary-storage==0.3.0
 idna==2.8
 mock==3.0.5
 requests==2.22.0
